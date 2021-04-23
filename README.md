@@ -3,7 +3,7 @@
 
   
   
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Serfati/twitter_nlp) ![](https://img.shields.io/apm/l/atomic-design-ui.svg?)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Serfati/covid_bloodtest) ![](https://img.shields.io/apm/l/atomic-design-ui.svg?)
 # Description  
 
 The World Health Organization (WHO) characterized the COVID-19, caused by the SARS-CoV-2, as a pandemic on March 11, while the exponential increase in the number of cases was risking to overwhelm health systems around the world with a demand for ICU beds far above the existing capacity, with regions of Italy being prominent examples.
